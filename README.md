@@ -1,4 +1,4 @@
 Code Snippets
 =======
 
-Collection of my most commonly use code snippets
+Collection of my most commonly used code snippets
