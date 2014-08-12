@@ -8,3 +8,4 @@ Collection of my most commonly used code snippets
 
 - Counting unique words in a list
 - Sorting the list of dictionary
+- Getting n items from list
