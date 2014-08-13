@@ -11,3 +11,4 @@ Collection of my most commonly used code snippets
 - Getting n items from list
 - Importing from different folder
 - Removing of punctuations from string
+- Removing of whitespace element in list
