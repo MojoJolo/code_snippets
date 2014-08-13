@@ -10,3 +10,4 @@ Collection of my most commonly used code snippets
 - Sorting the list of dictionary
 - Getting n items from list
 - Importing from different folder
+- Removing of punctuations from string
