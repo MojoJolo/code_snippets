@@ -13,3 +13,4 @@ Collection of my most commonly used code snippets
 - Removing of punctuations from string
 - Removing of whitespace element in list
 - Fibonacci sequence
+- Naive Bayes Classifier - pseudo code and reference
