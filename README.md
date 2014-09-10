@@ -14,3 +14,7 @@ Collection of my most commonly used code snippets
 - Removing of whitespace element in list
 - Fibonacci sequence
 - Naive Bayes Classifier - pseudo code and reference
+
+### Java
+
+- Merging arrays using ArrayList
