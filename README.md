@@ -20,3 +20,4 @@ Collection of my most commonly used code snippets
 ### Java
 
 - Merging arrays using ArrayList
+- Fibonacci sequence
