@@ -7,6 +7,7 @@ Collection of my most commonly used code snippets
 ### Python
 
 - Counting unique words in a list
+- Counting unique words in a list using Counter
 - Sorting the list of dictionary
 - Getting n items from list
 - Importing from different folder
