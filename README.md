@@ -19,5 +19,4 @@ Collection of my most commonly used code snippets
 
 ### Java
 
-- Merging arrays using ArrayList
-- Fibonacci sequence
+- Exercises to improve coding in Java
